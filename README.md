@@ -8,7 +8,7 @@ Informações sobre dos Repositórios Públicos
   <img height="180em" src=" https://github-readme-stats.vercel.app/api/top-langs/?username=ruicarlos&layout=compact/>
                            
  <a href="https://github.com/ruicarlos/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ruicarlos&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ruicarlos&repo=github-ruicarlos" />
 </a>
 <a href="https://github.com/ruicarlos/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ruicarlos&repo=convoychat" />

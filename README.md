@@ -6,5 +6,5 @@ Informações sobre dos Repositórios Públicos
   <a href="https://beacons.ai/ruicarlos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruicarlos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruicarlos&layout=compact&langs_count=16&theme=dark&count_private=true"/>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruicarlos)](https://github.com/anuraghazra/github-readme-stats)
+  (https://github-readme-stats.vercel.app/api?username=ruicarlos)](https://github.com/anuraghazra/github-readme-stats)
  </div

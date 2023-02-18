@@ -3,7 +3,7 @@
 
 ### :computer: Cientista da Computação - FFB - Fortaleza<br>
 <br>
-:heart_eyes: Paixões que me move: <br><br>
+:heart_eyes: Paixões que me movem: <br><br>
 * :family: Família  <br>
 * :book: Desafios & Aprendizados <br>
 * :satisfied: Entregar soluções de Ti para o dia-a-dia<br>

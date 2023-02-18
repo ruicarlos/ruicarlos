@@ -1,7 +1,13 @@
-### Olá Sou o Rui Carlos
+## :vulcan_salute: Olá Sou o Rui 
 
 
-Cientita da Computação <br>
+### :computer: Cientista da Computação - FFB - Fortaleza<br>
+<br>
+:heart_eyes: Paixões que me move: <br><br>
+* :family: Família  <br>
+* :book: Desafios & Aprendizados <br>
+* :satisfied: Entregar soluções de Ti para o dia-a-dia<br>
+* :milky_way: Astrofísica | Astronomia <br>
 
 <br>
 <div>
@@ -13,7 +19,7 @@ Cientita da Computação <br>
  </div
 
 <br>
-<h2>Sobre mim</h2><br><rb>
+<h2>Sobre mim :speech_balloon:</h2><br><rb>
      Trabalho com desenvolvimento de software desde 2012, sendo boa parte desse tempo com Delphi, desenvolvindo software ERP, para clinicas, Empresa de Manutenção de Elevadores entre outras. em 2018 optei por atuar como MEI desenvolvendo soluções para o mercado, até hoje varios projetos entregues desde Sistema de financeiro para Federação de Futebol, Aplicativos mobile, Soluções integradas com outros Software de terceiros. </br> Profissionalmente essas são minhas skill, porém sempre fui interessado por Visão Computacional com OpenCV, chegando a participar de Células de Estudos da Faculdade, Inteligência Artificial|Deep learning, Machine learning com Python e Automação com Arduino. porém nada disso no âmbto profissional apenas pessoal. Detalho alguns projetos que desenvolvi durante eses anos divididos por areas Mobile/Desktop/Web
 <br><br>
 

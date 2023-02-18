@@ -1,9 +1,9 @@
 ### Olá Sou o Rui Carlos
 
 
-Informações sobre dos Repositórios Públicos
-<h6> Conta Github Nova, poucos commits e reposistórios  Privados</h6>
-
+Bacharelando em Ciência da Computação <br>
+Centro Universitário Farias Brito
+<br>
 <div>
   <a href="https://beacons.ai/ruicarlos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruicarlos&count_private=true&show_icons=true&theme=transparent"/>

@@ -43,5 +43,9 @@
 
 <li><span>WEB  | Javascript\Typescript\CSS\HTML5 </span></li>
 <br>
-<p>Aprendiz com ciência da Computação que devemos utilizar as melhores tecnologias para entregar as melhores soluções, com isso sentido minha deficiência em Web, que só havia realmente utilizado no Curso Técnico, Então agora em 2022 iniciei os estudo das tecnologias para web, e pretendendo continuar aprendendo mais. </p>
+<p>Aprendiz com ciência da Computação que devemos utilizar as melhores tecnologias para entregar as melhores soluções, com isso sentindo minha deficiência em Web, que só havia realmente utilizado no Curso Técnico, Então em 2022 iniciei os estudo das tecnologias para web, e pretendendo continuar aprendendo mais. </p>
 
+:mag_right: Segue lá no LinkedIn,  
+ https://www.linkedin.com/in/rui-carlos-dev  
+    
+    

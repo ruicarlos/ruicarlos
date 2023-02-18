@@ -1,8 +1,8 @@
 ### Olá Sou o Rui Carlos
 
 
-Bacharelando em Ciência da Computação <br>
-Centro Universitário Farias Brito
+Cientita da Computação <br>
+
 <br>
 <div>
   <a href="https://beacons.ai/ruicarlos">

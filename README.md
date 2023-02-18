@@ -19,8 +19,8 @@
  </div
 
 <br>
-<h2>Sobre mim :speech_balloon:</h2><br><rb>
-     Trabalho com desenvolvimento de software desde 2012, sendo boa parte desse tempo com Delphi, desenvolvindo software ERP, para clinicas, Empresa de Manutenção de Elevadores entre outras. em 2018 optei por atuar como MEI desenvolvendo soluções para o mercado, até hoje varios projetos entregues desde Sistema de financeiro para Federação de Futebol, Aplicativos mobile, Soluções integradas com outros Software de terceiros. </br> Profissionalmente essas são minhas skill, porém sempre fui interessado por Visão Computacional com OpenCV, chegando a participar de Células de Estudos da Faculdade, Inteligência Artificial|Deep learning, Machine learning com Python e Automação com Arduino. porém nada disso no âmbto profissional apenas pessoal. Detalho alguns projetos que desenvolvi durante eses anos divididos por areas Mobile/Desktop/Web
+<h2> :speech_balloon:</h2><br><rb>
+     Iniciei na programação em 2013, em Fortaleza-CE numa empresa que desenvolvia Software para o Comercio, comecei com Borlard Delphi criando novas funcionalidades para os sitemas ate então. de lá para cá Muitas linhas de códigos, muitas tecnologia. Em 2017 criei a Angraz Tecnologia para atuar com o desenvolvimento de Software Personalizados, desenvolvia Sistemas padrões para comercio como ERP,(Venda, Controle de Estoque, Emissão de NFe...) Sistemas para Clínicas de Fisioterapia para controle de agendas, prontuário, financeiro. Em 2019 desemvolvemos um sistema de controle contábil para a Federação Cearense de Futebol. além do Delphi, por questão profissional já trabalhei com Java(SpringBoot), C# (Pouco),  Javascript, React, React Native e Python(Machine Learning).
 <br><br>
 
 <li><span>Mobile Flutter | Dart</span></li>

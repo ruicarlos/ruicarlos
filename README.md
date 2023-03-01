@@ -23,7 +23,7 @@
      Iniciei na programação em 2013, em Fortaleza-CE numa empresa que desenvolvia Software para o Comercio, comecei com Borlard Delphi criando novas funcionalidades para os sitemas ate então. de lá para cá Muitas linhas de códigos, muitas tecnologia. Em 2017 criei a Angraz Tecnologia para atuar com o desenvolvimento de Software Personalizados, desenvolvia Sistemas padrões para comercio como ERP,(Venda, Controle de Estoque, Emissão de NFe...) Sistemas para Clínicas de Fisioterapia para controle de agendas, prontuário, financeiro. Em 2019 desemvolvemos um sistema de controle contábil para a Federação Cearense de Futebol. além do Delphi, por questão profissional já trabalhei com Java(SpringBoot), C# (Pouco),  Javascript, React, React Native e Python(Machine Learning).
 <br><br>
 
-<li><span>Mobile Flutter | Dart</span></li>
+<li><span>Mobile Flutter | Dart & React Native</span></li>
 <br>
 <p>Aplicativos Indot/Cestapp para os clientes de supermercado realizarem seus pedidos, integrado com sistema retaguarda da Focus Informática,  desenvolvido em 100% com Flutter e Sistema de Sincronização em Delphi, com disponibilidade para banco de dados SQL Server, Mysql e Firebird<br> Acesse alguns projeto disponível na minha loja na GooglePlay</p>
 <a href="https://play.google.com/store/apps/developer?id=Angraz+Tecnologia">Visite Angraz Tecnologia na GooglePlay</a>
@@ -41,7 +41,7 @@
 <br>
 
 
-<li><span>WEB  | Javascript\Typescript\CSS\HTML5 </span></li>
+<li><span>WEB  | Javascript\CSS\HTML5 </span></li>
 <br>
 <p>Aprendiz com ciência da Computação que devemos utilizar as melhores tecnologias para entregar as melhores soluções, com isso sentindo minha deficiência em Web, que só havia realmente utilizado no Curso Técnico, Então em 2022 iniciei os estudo das tecnologias para web, e pretendendo continuar aprendendo mais. </p>
 

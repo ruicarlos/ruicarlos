@@ -23,7 +23,7 @@ Google Developer Groups - Organizer
 
 <li><span>Mobile Flutter | Dart & React Native</span></li>
 <br>
-<p>Aplicativos Indot/Cestapp para os clientes de supermercado realizarem seus pedidos, integrado com sistema retaguarda da Focus Informática,  desenvolvido em 100% com Flutter e Sistema de Sincronização em Delphi, com disponibilidade para banco de dados SQL Server, Mysql e Firebird, além de vários outros aplicativo em sua maioria desenvolvido em Flutter (mas também React Native e Unity) para realidade aumentada, projetos de inovação e comercio <br> Acesse alguns projetos disponível nas lojas GooglePlay(android) e AppStore(IOS) </p>
+<p>Aplicativos Indot/Cestapp para os clientes de supermercado realizarem seus pedidos, integrado com sistema retaguarda da Focus Informática,  desenvolvido em 100% com Flutter e Sistema de Sincronização em Delphi, com disponibilidade para banco de dados SQL Server, Mysql e Firebird, além de vários outros aplicativo em sua maioria desenvolvido em Flutter (mas também React Native e Unity) para realidade aumentada, projetos de inovação e comercio <br> Acesse alguns projetos disponíveis nas lojas GooglePlay(android) e AppStore(IOS) </p>
 <a href="https://play.google.com/store/apps/developer?id=Angraz+Tecnologia">Apps publicados na GooglePlay</a>
 <br>
 <a href="https://apps.apple.com/us/app/virtualizae/id6754344333"> Apps publicados na AppStore (Toque no nome da Angraz Tecnologia para ver todos) </a>
